@@ -22,5 +22,5 @@ SPEEDY FOOD is a front-end representation of a food delivery website. It's a pro
 To explore SPEEDY FOOD, simply clone this repository and open the `index.html` file in your web browser. There's no need for complex setup or dependencies.
 
 ```bash
-git clone https://github.com/Tanish-Mittal/SPEEDY-FOOD.git
+git clone https://github.com/Tanish-Mittal/Food-Delivery-Website-Front-End-.git
 cd SPEEDY-FOOD
