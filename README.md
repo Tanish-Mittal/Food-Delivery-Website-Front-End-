@@ -24,3 +24,11 @@ To explore SPEEDY FOOD, simply clone this repository and open the `index.html` f
 ```bash
 git clone https://github.com/Tanish-Mittal/Food-Delivery-Website-Front-End-.git
 cd SPEEDY-FOOD
+## Contributions
+
+Contributions to enhance and improve SPEEDY FOOD are welcome! Feel free to submit pull requests or report issues if you come across any. Your feedback and contributions are valuable in making this project even better.
+
+## Conclusion
+
+SPEEDY FOOD is a demonstration of my HTML and CSS skills, showcasing a responsive food delivery website. Explore the code, experiment with it, and enjoy a glimpse into the world of web development. Thank you for visiting our repository!
+
